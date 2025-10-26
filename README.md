@@ -283,14 +283,3 @@ Alternatives considered:
 - [ReAct Paper](https://arxiv.org/abs/2210.03629)
 - [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling)
 
-## Author
-
-**Mounir Khalil**
-Student ID: 202100437
-American University of Beirut
-EECE798S Agentic Systems - Chapter 4 Assignment
-Fall 2025-2026
-
-## License
-
-Educational project for EECE798S course.
