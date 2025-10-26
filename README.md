@@ -24,9 +24,9 @@ new_assignment/
 ├── README.md                    # This file
 ├── REFLECTION.md               # Detailed reflection and analysis
 ├── experiment_results.csv      # Experimental results (it is generated when you run the code)
-├── sample_conversations.txt    # Example conversations (it is are generated when you run the code)
-├── customer_leads.jsonl        # Collected leads (it is are generated when you run the code)
-└── feedback_log.jsonl          # Feedback log (it is are generated when you run the code)
+├── sample_conversations.txt    # Example conversations (it is generated when you run the code)
+├── customer_leads.jsonl        # Collected leads (it is generated when you run the code)
+└── feedback_log.jsonl          # Feedback log (it is generated when you run the code)
 ```
 
 ## Use Case
