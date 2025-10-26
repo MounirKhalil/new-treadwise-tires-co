@@ -24,10 +24,10 @@ new_assignment/
 ├── requirements.txt             # Python dependencies
 ├── README.md                    # This file
 ├── REFLECTION.md               # Detailed reflection and analysis
-├── experiment_results.csv      # Experimental results (generated)
-├── sample_conversations.txt    # Example conversations (generated)
-├── customer_leads.jsonl        # Collected leads (generated)
-└── feedback_log.jsonl          # Feedback log (generated)
+├── experiment_results.csv      # Experimental results
+├── sample_conversations.txt    # Example conversations
+├── customer_leads.jsonl        # Collected leads
+└── feedback_log.jsonl          # Feedback log
 ```
 
 ## Use Case
